@@ -1,6 +1,6 @@
 # 🌟 YouTube Thumbnail Downloader 📸
 
-![Logo]([images/1111111.png](https://github.com/wajihaansari123/Youtube-Tumbnail-Downloader/blob/main/1111111.PNG))
+![Logo](https://github.com/wajihaansari123/Youtube-Tumbnail-Downloader/blob/main/1111111.PNG)
 
 Welcome to the YouTube Thumbnail Downloader! This simple and effective tool allows you to effortlessly download high-quality thumbnails from any YouTube video. Whether you need the maximum resolution or a high-quality version, we've got you covered. 🚀
 
@@ -19,12 +19,12 @@ Welcome to the YouTube Thumbnail Downloader! This simple and effective tool allo
 
 ## 📸 Screenshot
 
-![Screenshot]([images/Youtube-Thumbnail-Downloader.pn](https://github.com/wajihaansari123/Youtube-Tumbnail-Downloader/blob/main/Youtube-Thumbnail-Downloader.png)g)
+![Screenshot](https://github.com/wajihaansari123/Youtube-Tumbnail-Downloader/blob/main/Youtube-Thumbnail-Downloader.png)
 
 ## 🚀 Getting Started
 
 Clone the repository and start using the tool right away:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/wajihaansari123/Youtube-Tumbnail-Downloader.git
+cd wajihaansari123
